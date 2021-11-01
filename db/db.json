@@ -86,7 +86,7 @@
         "Bacon",
         "Salame"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 1
     },
     {
@@ -97,54 +97,8 @@
         "Tomate",
         "Bacon"
       ],
-      "status": "Solicitado",
+      "status": "Finalizado",
       "id": 2
-    },
-    {
-      "nome": "Ronaldinho",
-      "carne": "Alcatra",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [
-        "Bacon",
-        "Salame"
-      ],
-      "status": "Solicitado",
-      "id": 3
-    },
-    {
-      "nome": "solange",
-      "carne": "Picanha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Tomate",
-        "Cheddar"
-      ],
-      "status": "Solicitado",
-      "id": 4
-    },
-    {
-      "nome": "Maria",
-      "carne": "Veggie burger",
-      "pao": "Integral",
-      "opcionais": [
-        "Tomate",
-        "Pepino",
-        "Cebola roxa"
-      ],
-      "status": "Solicitado",
-      "id": 5
-    },
-    {
-      "nome": "Diego",
-      "carne": null,
-      "pao": "Integral",
-      "opcionais": [
-        "Cheddar",
-        "Tomate",
-        "Salame"
-      ],
-      "status": "Solicitado",
-      "id": 6
     },
     {
       "nome": "Ribas",
@@ -155,8 +109,32 @@
         "Tomate",
         "Bacon"
       ],
-      "status": "Solicitado",
+      "status": "Finalizado",
       "id": 7
+    },
+    {
+      "nome": "Luis Felipe",
+      "carne": "Picanha",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Bacon",
+        "Salame",
+        "Cheddar",
+        "Cebola roxa"
+      ],
+      "status": "Em produção",
+      "id": 8
+    },
+    {
+      "nome": "Luan",
+      "carne": "Picanha",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Cheddar",
+        "Bacon"
+      ],
+      "status": "Finalizado",
+      "id": 9
     }
   ]
 }
